@@ -9,6 +9,8 @@ AFRAME.registerComponent("dsmove", {
     var ds = document.getElementById("myDs");// distractor element
     var time=0;
     var count=-1;
+   
+
 var isCounting=true;
     console.log(box + " this " + ds);
 
@@ -60,12 +62,14 @@ var isCounting=true;
 
     let advancedDsMovement = function newCycle() 
     {
-      
+       
       random = Math.floor(Math.random() * Math.floor(box.length - 1));
       
       newpos = box[random].getAttribute("position");
 
-    
+     var dscounetr=document.getElementById("dscounter").getAttribute("value");
+          dscounetr++;
+      document.getElementById("dscounter").setAttribute("value", dscounetr);
     
       ds.setAttribute(
         "animation",
@@ -75,7 +79,7 @@ var isCounting=true;
           newpos.z +
           " dur:5000"
       );
-
+     console.log("dscounter: "+dscounetr);
       document
         .getElementById("Taxi")
         .setAttribute("animation", "enabled", true);
@@ -88,7 +92,6 @@ var isCounting=true;
           ds.getAttribute("position").x
       );
     };
-
     el.addEventListener("hitstart", e => {
       console.log("col");
       console.log(
@@ -100,7 +103,8 @@ var isCounting=true;
       document
         .getElementById("Taxi")
         .setAttribute("animation", "enabled", false);// to stop fairy movement until the player respond to distractor
-       
+        
+    
         if (isCounting==false) {
            count=  setInterval(function() {
        

@@ -57,7 +57,7 @@ AFRAME.registerComponent("showitem", {
         
         fairy.setAttribute(
           "animation",
-          "property:position; to:" + xpos + " 0.8 " + zpos + "; dur:1500"
+          "property:position; to:" + xpos + " 0.8 " + zpos + "; dur:1000"
         );//move Fairy to next Target
         
         console.log(
