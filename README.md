@@ -21,9 +21,9 @@ A gamified **Virtual Reality** theapeutic application, addresses attention skill
 The gameplay occurs in **three unique environments**. Each is composed of a round track on which the player shall reveal hidden items with the help of Illy that are then collected. Uncle Noah is always present in the environments on the side doing an idle animation, and the items that the player and Illy find are collected in a container that lies beside Uncle Noah.
 The three environments are: 
 
- - Garden; and the objective is to collect fruits and vegetables
- - Beach; and the objective is to collect fish and fishing tools
- - Library; and the objective is to collect letters
+ - **Garden**; and the objective is to collect fruits and vegetables
+ - **Beach**; and the objective is to collect fish and fishing tools
+ - **Library**; and the objective is to collect letters
 
 ## Levels
 ###  Level One: 
