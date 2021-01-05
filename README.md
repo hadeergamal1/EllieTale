@@ -11,7 +11,7 @@ ___
 
 ## Description
  
-A **Virtual Reality** gamified theapeutic application, addresses attention skills on various levels. The gameplay consists of a visual target tracking exercise that is designed to address and measure the various variables of attention assessed by the **Test of Variables of Attention** ([TOVA](https://www.tovatest.com/)).
+A gamified **Virtual Reality** theapeutic application, addresses attention skills on various levels. The gameplay consists of a visual target tracking exercise that is designed to address and measure the various variables of attention assessed by the **Test of Variables of Attention** ([TOVA](https://www.tovatest.com/)).
 
 ## Story
 **Uncle Noah** is a nice old man, living by himself in the neighborhood. Since he’s living alone, he usually needs help in his everyday activites. He does fishing, farming, growing fruits, and writes books to earn a living. 
