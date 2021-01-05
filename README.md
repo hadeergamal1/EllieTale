@@ -57,7 +57,7 @@ To know more about the design of the gamified thepautic VR application, check ou
 > node v15.5.0
 > npm v7.3.0
 
- 1. Clone the repository `git clone https://github.com/YahyaAlaaMassoud/Illy-Tale.git`
+ 1. Clone the repository `git clone https://github.com/vrapeutic/Illy-Tale.git`
  2. Go to the repo's directory `cd Illy-Tale`
  3. Run `npm install` to install the required dependecies
  4. Run `npm run dev` command to start the WebXR app in your local envirotnment
@@ -70,7 +70,7 @@ To know more about the design of the gamified thepautic VR application, check ou
 > docker v20.10.1
 
  1. Clone the repository 
-`git clone https://github.com/YahyaAlaaMassoud/Illy-Tale.git`
+`git clone https://github.com/vrapeutic/Illy-Tale.git`
  2. Go to the repo's directory 
 `cd Illy-Tale`
  3. Run `docker pull yahyaalaa/illy-tale-webxr:tag` to pull the latet Docker image from our DockerHub public repository, where you will find our available `tags`
