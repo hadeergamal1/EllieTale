@@ -84,7 +84,7 @@ To know more about the design of the gamified thepautic VR application, check ou
  1. Go to [Glitch](https://glitch.com/) platform
  2. Create an account if you don't already have one
  3. On your dashboard, then click **New project**, then choose the **Import from GitHub** option
- 4. Paste the repo's full [url](https://github.com/vrapeutic/AFrame.git), then click **Ok**
+ 4. Paste the repo's full [url](https://github.com/vrapeutic/Illy-Tale.git), then click **Ok**
  5. You're ready to go!
  
  ### Preferred platform
