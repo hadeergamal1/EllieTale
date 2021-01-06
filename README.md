@@ -1,7 +1,7 @@
 
 # Ellie Tale - WebXR Version | [Try it out!](https://bit.ly/2LiIM22) 
 
-| master 	| [![Build Status](https://travis-ci.com/YahyaAlaaMassoud/Elly-Tale.svg?token=PBt8ZGdgcipxYrxdNZTr&branch=master)](https://travis-ci.com/YahyaAlaaMassoud/Elly-Tale) 	| Travis CI Build Status 	|
+| master 	| [![Build Status](https://travis-ci.com/vrapeutic/Ellie-Tale.svg?branch=main)](https://travis-ci.com/vrapeutic/Ellie-Tale) 	| Travis CI Build Status 	|
 |-	|-	|-	|
 ___
 
