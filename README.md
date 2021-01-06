@@ -1,5 +1,5 @@
 
-# Ellie Tale - WebXR Version | [Try it out!](https://bit.ly/2LiIM22) 
+# Ellie Tale - WebXR Version | [Try it out!](https://ellie-tale.web.app/) 
 
 | master 	| [![Build Status](https://travis-ci.com/vrapeutic/Ellie-Tale.svg?branch=main)](https://travis-ci.com/vrapeutic/Ellie-Tale) 	| Travis CI Build Status 	|
 |-	|-	|-	|
